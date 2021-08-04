@@ -18,10 +18,14 @@ public class firstClass {
 		System.out.println("here another conflict from master branch");
               System.out.println("here is the conflict from remote master branch");
               System.out.println("same changes from local branch");
+
+		System.out.println("// here is my second conflict from my local master");
+
 		
 		System.out.println("last changes from local branch");
 	
 		
+
 		
 
 		
